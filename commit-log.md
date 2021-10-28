@@ -14,3 +14,4 @@ Merge pull request from JP https://github.com/13retonnian/cpnt201-a4-chris/commi
 # Resolved Merge Conflict Commit
 Fixed merge conflict https://github.com/13retonnian/cpnt201-a4-chris/commit/0de74d4094622db768d231926808831f2cfa7c68
 # Commit documentation file being added to the repo
+Added commit log: https://github.com/13retonnian/cpnt201-a4-chris/commit/43fd782d4bf1cfdea2d65af35290deede60dade6
